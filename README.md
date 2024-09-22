@@ -1,6 +1,6 @@
 Program construction module - Project 2
 
-~performance analysis of java collection implimentations~
+*performance analysis of java collection implimentations*
 
 The objective of this program is to test the performance of several Java Collection 
 implementations for these methods. 
